@@ -95,9 +95,10 @@
 				<!-- Three -->
 					<section id="three">
 						<h2>Get In Touch</h2>
-						<form method="post" action="send_email.php"> <!-- PHP script to handle the email -->
+						<form action="https://api.web3forms.com/submit" method="POST">> <!-- PHP script to handle the email -->
 							<div class="row gtr-uniform gtr-50">
 								<div class="col-6 col-12-xsmall">
+									<input type="hidden" name="access_key" value="cc25cb82-c03e-425e-beea-c03210f7c505">
 									<input type="text" name="name" id="name" placeholder="Name" required />
 								</div>
 								<div class="col-6 col-12-xsmall">
