@@ -45,7 +45,7 @@
 							<br />
 							<br />This portfolio showcases some of my work in exploratory data analysis, financial modeling, and predictive analytics—reflecting both my technical skills and my commitment to solving real-world problems.</p>
 						<ul class="actions">
-								<li><a href="https://drive.google.com/file/d/1CPmLU3cqkOgyixiZtUxRGbqDOLXtinA9/view?pli=1" class="button">Resume</a></li>
+								<li><a href="https://drive.google.com/file/d/1_8j5wDIKRq2yvhXr1EFLqK34JCKfydat/view?usp=sharing" class="button">Resume</a></li>
 						</ul>
 					</section>
 
